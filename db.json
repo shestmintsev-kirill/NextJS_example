@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "NextJS Post",
+      "body": "lorem lorem NextJS Post lorem lorem NextJS Post lorPost lorem lorem NextJS Post lorem lorem NextJS Post lorem lorem NextJS Post "
+    },
+    {
+      "id": 2,
+      "title": "NextJS Post 2",
+      "body": "lorem lorem NextJS Post lorem lorem NextJS Post "
+    },
+    {
+      "id": 3,
+      "title": "NextJS Post 3",
+      "body": "lorem lorem Nex lorem NextJS Post lorem lorem NextJS Post lorem lorem NextJS Post lorem lorem NextJS Post "
+    },
+    {
+      "id": 4,
+      "title": "NextJS Post 4",
+      "body": "lorem lorem NextJSm NextJS Post lorem lorem NextJS Post lorem lorem NextJS Post lorem lorem NextJS Post lorem lorem NextJS Post "
+    },
+    {
+      "id": 5,
+      "title": "NextJS Post 5",
+      "body": "lorem lorem NextJS Post lorem lorem NextJS Post lorem lorem Nextm NextJS Post lorem lorem NextJS Post lorem lorem NextJS Post lorem lorem NextJS Post "
+    }
+  ],
+  "about": {
+    "title": "О Нас"
+  }
+}
